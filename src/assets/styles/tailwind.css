@@ -1,0 +1,11 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.btn-circle
+{
+    border-radius: 50%;
+    border: 4px solid #f3c614;
+}
